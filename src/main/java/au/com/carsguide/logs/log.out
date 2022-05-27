@@ -1,0 +1,15 @@
+2022-05-25 22:05:773 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-25 22:05:897 INFO  Homepage :31 - Mouse Hover On Buy And Sell : [[ChromeDriver: chrome on WINDOWS (1f23f1dc53ae4de054cb24fe5ce51ef9)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-25 22:05:67 INFO  Homepage :46 - click Find Dealer : [[ChromeDriver: chrome on WINDOWS (1f23f1dc53ae4de054cb24fe5ce51ef9)] -> xpath: //a[contains(text(),'Find a Dealer')]]<br>
+2022-05-25 22:05:108 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-25 22:05:117 INFO  Homepage :31 - Mouse Hover On Buy And Sell : [[ChromeDriver: chrome on WINDOWS (3addf14eccc2b39734ff1895f1e9da80)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-25 22:05:270 INFO  Homepage :46 - click Find Dealer : [[ChromeDriver: chrome on WINDOWS (3addf14eccc2b39734ff1895f1e9da80)] -> xpath: //a[contains(text(),'Find a Dealer')]]<br>
+2022-05-25 22:05:968 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-25 22:05:507 INFO  Homepage :31 - Mouse Hover On Buy And Sell : [[ChromeDriver: chrome on WINDOWS (433fd9fbc32147a10b578adce7cf394c)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-25 22:05:666 INFO  Homepage :46 - click Find Dealer : [[ChromeDriver: chrome on WINDOWS (433fd9fbc32147a10b578adce7cf394c)] -> xpath: //a[contains(text(),'Find a Dealer')]]<br>
+2022-05-26 17:05:119 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 17:05:643 INFO  Homepage :31 - Mouse Hover On Buy And Sell : [[ChromeDriver: chrome on WINDOWS (3ebc7301f73f4900701af8a3b7d9c64e)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-26 17:05:789 INFO  Homepage :46 - click Find Dealer : [[ChromeDriver: chrome on WINDOWS (3ebc7301f73f4900701af8a3b7d9c64e)] -> xpath: //a[contains(text(),'Find a Dealer')]]<br>
+2022-05-26 17:05:606 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-05-26 17:05:371 INFO  Homepage :31 - Mouse Hover On Buy And Sell : [[ChromeDriver: chrome on WINDOWS (3724115a6b3df22299511a9dfd672786)] -> xpath: //a[contains(text(),'buy + sell')]]<br>
+2022-05-26 17:05:774 INFO  Homepage :46 - click Find Dealer : [[ChromeDriver: chrome on WINDOWS (3724115a6b3df22299511a9dfd672786)] -> xpath: //a[contains(text(),'Find a Dealer')]]<br>
